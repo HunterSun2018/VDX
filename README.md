@@ -1,5 +1,7 @@
 # VDX
 Video downloader X is an Android application that download videos from social media apps .
+# website
+https://huntersun.org
 
 ❤️❤️❤️
 ## VDX - Video Download X
@@ -10,7 +12,7 @@ Google Play store
 https://play.google.com/store/apps/details?id=org.huntersun.videodownloaderx
 
 Directly download
-https://huntersun.org/
+[https://huntersun.org/](https://github.com/HunterSun2018/VDX/releases/download/v1.3.5/VDX.apk)
 
 视频下载器X
 🔥🔥🔥
@@ -21,4 +23,4 @@ Google商店下载安装：
 https://play.google.com/store/apps/details?id=org.huntersun.videodownloaderx
 
 直接下载
-https://huntersun.org/
+[https://huntersun.org/](https://github.com/HunterSun2018/VDX/releases/download/v1.3.5/VDX.apk)
