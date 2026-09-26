@@ -12,7 +12,7 @@ Google Play store
 https://play.google.com/store/apps/details?id=org.huntersun.videodownloaderx
 
 Directly download
-https://github.com/HunterSun2018/VDX/releases/download/v1.3.5/VDX.apk
+https://github.com/HunterSun2018/VDX/releases/download/v1.3.6/VDX.apk
 
 ## 视频下载器X
 
@@ -24,4 +24,4 @@ Google商店下载安装：
 https://play.google.com/store/apps/details?id=org.huntersun.videodownloaderx
 
 直接下载
-https://github.com/HunterSun2018/VDX/releases/download/v1.3.5/VDX.apk
+https://github.com/HunterSun2018/VDX/releases/download/v1.3.6/VDX.apk
